@@ -48,7 +48,7 @@ wget https://bitbucket.org/JesusFreke/smali/downloads/smali-2.5.2.jar -O smali.j
 
 ### 2. Install Zipalign:
 ```bash
-wget https://github.com/monkeycoderz/termux-zipalign/raw/main/zipalign
+wget https://github.com/dasqinnagiyev/Dex-Encryptor/raw/refs/heads/main/zipalign
 chmod +x zipalign
 mv zipalign $PREFIX/bin/
 ```
